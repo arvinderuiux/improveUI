@@ -1,0 +1,22 @@
+{
+  "name": "improve-ui",
+  "version": "1.0.0",
+  "description": "We recommend utilizing an npm package specifically designed to enhance the user interface (UI) and overall design aesthetics of your application. This will ensure a more intuitive and visually appealing user experience.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run improve-ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvinderuiux/improveUI.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Arvinder singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arvinderuiux/improveUI/issues"
+  },
+  "homepage": "https://github.com/arvinderuiux/improveUI#readme"
+}
